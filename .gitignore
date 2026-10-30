@@ -1,0 +1,12 @@
+# IDE
+.idea/
+
+# Python 虚拟环境 / 依赖
+.venv/
+.deps/
+__pycache__/
+
+# 运行产物
+logs/
+*.log
+measurements_*.csv
